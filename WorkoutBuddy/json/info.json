@@ -1,0 +1,22 @@
+[
+    {
+      "title": "FULL BODY",
+      "img": "assets/ex1.png"
+    },
+    {
+      "title": "ABS",
+      "img": "assets/abs1.png"
+    },
+    {
+      "title": "LEG",
+      "img": "assets/leg.png"
+    },
+    {
+      "title": "ARM",
+      "img": "assets/arm.png"
+    },
+    {
+      "title": "CHEST",
+      "img": "assets/chest.png"
+    }
+  ]
